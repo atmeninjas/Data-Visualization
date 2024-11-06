@@ -1,3 +1,3 @@
-# Data-Visualization
+# Data Visualization
 
 this lab actuallly sucks
